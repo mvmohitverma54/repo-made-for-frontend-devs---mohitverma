@@ -3,15 +3,12 @@
 **Hello guys i made this repo to help people learn new skills regarding frontend development , as many of my juniors and a lot of people struggle to find links to learn all these stuffs so i searched max of net and made a repo out of these links . contribution is appreciated  go see contribution.md ! Manually curated collection of resources for frontend web developers.**
 ---------------------------------------------------------
 
-## Appearance
+## Looking of Website
 
 The outward or visible aspect of a website.
-
-+ **[Animation](appearance/animation.md)**: The process of creating motion and shape change.
 + **[Typography](appearance/typography.md)**: The style, arrangement, or appearance of typeset matter.
-+ **[Visualization](appearance/visualization.md)**: Placing data in a visual context.
 
-## Architecture
+## Arch of design and development
 
 High level structure of the frontend code and the discipline of creating such structures.
 
@@ -34,7 +31,7 @@ Ability of a product to work with different input/output devices and rendering s
 + **[Responsive Web Design (RWD)](compatibility/responsive-web-design-rwd.md)**: RWD responds to the needs of the users and the devices they’re using. The layout changes based on the size and capabilities of the device.
 + **[Web Accessibility](compatibility/web-accessibility.md)**: Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.
 
-## Ecosystem
+## Environment
 
 Important developers, companies, organizations and news sources.
 
@@ -62,7 +59,7 @@ Programming/mark-up languages and web related standards.
 + **[Web Animations API](animation/web-animations-api.md)**: Web Animations is a new JavaScript API for driving animated content on the web. By unifying the animation features of SVG and CSS, Web Animations unlocks features previously only usable declaratively, and exposes powerful, high-performance animation capabilities to developers.
 + **[WebAssembly](languages-protocols-browser-apis/webassembly.md)**: WebAssembly is meant to fill a place that JavaScript has been forced to occupy up to now: a low-level code representation that can serve as a compiler target.
 
-## User Interface Components
+## UI Components
 
 Drop-in UI components for web sites and applications.
 
@@ -76,7 +73,7 @@ Drop-in UI components for web sites and applications.
 + **[UI Kits](user-interface-components/ui-kits.md)**: Collections of ready to use components.
 + **[Video & Audio](user-interface-components/video-and-audio.md)**: Components for playing audio and video files on a website.
 
-## Workflow
+## Workflow ( automation etc )
 
 Task automation and asset delivery.
 
@@ -93,10 +90,3 @@ Task automation and asset delivery.
 + **[Package Management](workflow/package-management.md)**: A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing reusable libraries and components in a consistent manner.
 + **[Sourcemaps](workflow/sourcemaps.md)**: Sourcemap is a way to map a combined/minified file back to an unbuilt state.
 + **[Version Control](workflow/version-control.md)**: Version control or source control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
-
-
-------------------
-
-# License
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
