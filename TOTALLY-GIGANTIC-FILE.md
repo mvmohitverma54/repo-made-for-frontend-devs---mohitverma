@@ -1,4 +1,5 @@
-# Frontend Development
+# Frontend Development Latest updated links , 24-04-2017 , --by  Mohit verma 
+this is a all source file , although i made separate section for each back in repo , but this is all links from that and few new ones added now also . 
 
 Manually curated collection of resources for frontend web developers.
 Proceed to [frontend-dev-bookmarks](./README.md)
