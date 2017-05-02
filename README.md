@@ -77,6 +77,7 @@ Drop-in UI components for web sites and applications.
 + **[Table Of Contents](user-interface-components/table-of-contents.md)**: Components for automatic table of contents generation.
 + **[UI Kits](user-interface-components/ui-kits.md)**: Collections of ready to use components.
 + **[Video & Audio](user-interface-components/video-and-audio.md)**: Components for playing audio and video files on a website.
++ **[UI tools site](https://speckyboy.com/effective-ux-and-ui-tools-and-resources-for-web-designers/)**: Some of the new tools for Wireframing and Prototypes.
 
 ## Workflow ( automation etc )
 
