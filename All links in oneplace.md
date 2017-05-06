@@ -11,6 +11,7 @@ Proceed to [frontend-dev-bookmarks](./README.md)
 The outward or visible aspect of a website.
 
 + **Animation**: The process of creating motion and shape change.
+    + **[Whitestorm.js](https://whsjs.io/#/)**: A Whole new Library to use three.js but with more ease . Latest graphics Javascript library made with love .
     + **[Animate.css](http://daneden.github.io/animate.css/)**: Just-add-water CSS animations.
     + **[Animate.less](https://github.com/machito/animate.less)**: A bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects.
     + **[Anime.js](https://github.com/juliangarnier/anime)**: Anime is a flexible yet lightweight JavaScript animation library. It works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
